@@ -1,0 +1,68 @@
+[
+  {
+    "name": "CriticalClaws",
+    "stats": [
+      { "kit": "Mace", "tier": "LT4" },
+      { "kit": "NethOP", "tier": "HT5" },
+      { "kit": "Sword", "tier": "LT4" },
+      { "kit": "Axe", "tier": "LT4" },
+      { "kit": "SMP", "tier": "HT4" },
+      { "kit": "Pot", "tier": "LT5" },
+      { "kit": "UHC", "tier": "HT5" },
+      { "kit": "Vanilla", "tier": "LT4" }
+    ]
+  },
+  {
+    "name": "jaadain",
+    "stats": [
+      { "kit": "Sword", "tier": "HT5" },
+      { "kit": "Axe", "tier": "LT4" },
+      { "kit": "NethOP", "tier": "HT5" }
+    ]
+  },
+  {
+    "name": "Zenvor_Playz",
+    "stats": [
+      { "kit": "Sword", "tier": "LT4" }
+    ]
+  },
+  {
+    "name": "RimuruSlime_",
+    "stats": [
+      { "kit": "Sword", "tier": "LT4" }
+    ]
+  },
+  {
+    "name": "MysticFoxXX",
+    "stats": [
+      { "kit": "Sword", "tier": "LT3" },
+      { "kit": "Mace", "tier": "LT3" },
+      { "kit": "Vanilla", "tier": "HT5" }
+    ]
+  },
+  {
+    "name": "raspb3rry",
+    "stats": [
+      { "kit": "Vanilla", "tier": "LT3" },
+      { "kit": "NethOP", "tier": "HT5" }
+    ]
+  },
+  {
+    "name": "_VinCinX",
+    "stats": [
+      { "kit": "Vanilla", "tier": "LT4" }
+    ]
+  },
+  {
+    "name": "AlivePlays",
+    "stats": [
+      { "kit": "NethOP", "tier": "LT3" }
+    ]
+  },
+  {
+    "name": "OnlyVortex_",
+    "stats": [
+      { "kit": "Vanilla", "tier": "HT4" }
+    ]
+  }
+]
