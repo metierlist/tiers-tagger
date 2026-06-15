@@ -2,67 +2,365 @@
   {
     "name": "CriticalClaws",
     "stats": [
-      { "kit": "Mace", "tier": "LT4" },
-      { "kit": "NethOP", "tier": "HT5" },
-      { "kit": "Sword", "tier": "LT4" },
-      { "kit": "Axe", "tier": "LT4" },
-      { "kit": "SMP", "tier": "HT4" },
-      { "kit": "Pot", "tier": "LT5" },
-      { "kit": "UHC", "tier": "HT5" },
-      { "kit": "Vanilla", "tier": "LT4" }
+      {
+        "kit": "Mace",
+        "tier": "LT4"
+      },
+      {
+        "kit": "NethOP",
+        "tier": "HT5"
+      },
+      {
+        "kit": "Sword",
+        "tier": "LT4"
+      },
+      {
+        "kit": "Axe",
+        "tier": "LT4"
+      },
+      {
+        "kit": "SMP",
+        "tier": "HT4"
+      },
+      {
+        "kit": "Pot",
+        "tier": "LT5"
+      },
+      {
+        "kit": "UHC",
+        "tier": "HT5"
+      },
+      {
+        "kit": "Vanilla",
+        "tier": "LT4"
+      }
     ]
   },
   {
     "name": "jaadain",
     "stats": [
-      { "kit": "Sword", "tier": "HT5" },
-      { "kit": "Axe", "tier": "LT4" },
-      { "kit": "NethOP", "tier": "HT5" }
+      {
+        "kit": "Sword",
+        "tier": "HT5"
+      },
+      {
+        "kit": "Axe",
+        "tier": "LT4"
+      },
+      {
+        "kit": "NethOP",
+        "tier": "HT5"
+      },
+      {
+        "kit": "Vanilla",
+        "tier": "LT5"
+      },
+      {
+        "kit": "Mace",
+        "tier": "HT5"
+      },
+      {
+        "kit": "UHC",
+        "tier": "HT5"
+      }
     ]
   },
   {
     "name": "Zenvor_Playz",
     "stats": [
-      { "kit": "Sword", "tier": "LT4" }
+      {
+        "kit": "Sword",
+        "tier": "LT4"
+      }
     ]
   },
   {
     "name": "RimuruSlime_",
     "stats": [
-      { "kit": "Sword", "tier": "LT4" }
+      {
+        "kit": "Sword",
+        "tier": "LT4"
+      },
+      {
+        "kit": "Axe",
+        "tier": "HT5"
+      }
     ]
   },
   {
     "name": "MysticFoxXX",
     "stats": [
-      { "kit": "Sword", "tier": "LT3" },
-      { "kit": "Mace", "tier": "LT3" },
-      { "kit": "Vanilla", "tier": "HT5" }
-    ]
-  },
-  {
-    "name": "raspb3rry",
-    "stats": [
-      { "kit": "Vanilla", "tier": "LT3" },
-      { "kit": "NethOP", "tier": "HT5" }
+      {
+        "kit": "Sword",
+        "tier": "LT3"
+      },
+      {
+        "kit": "Mace",
+        "tier": "LT3"
+      },
+      {
+        "kit": "Vanilla",
+        "tier": "HT5"
+      },
+      {
+        "kit": "NethOP",
+        "tier": "LT4"
+      }
     ]
   },
   {
     "name": "_VinCinX",
     "stats": [
-      { "kit": "Vanilla", "tier": "LT4" }
+      {
+        "kit": "Vanilla",
+        "tier": "LT4"
+      },
+      {
+        "kit": "UHC",
+        "tier": "HT5"
+      }
     ]
   },
   {
     "name": "AlivePlays",
     "stats": [
-      { "kit": "NethOP", "tier": "LT3" }
+      {
+        "kit": "NethOP",
+        "tier": "LT3"
+      }
     ]
   },
   {
     "name": "OnlyVortex_",
     "stats": [
-      { "kit": "Vanilla", "tier": "HT4" }
+      {
+        "kit": "Vanilla",
+        "tier": "HT4"
+      }
+    ]
+  },
+  {
+    "name": "Sol0Hunt3R",
+    "stats": [
+      {
+        "kit": "NethOP",
+        "tier": "LT3"
+      }
+    ]
+  },
+  {
+    "name": "xianXX2",
+    "stats": [
+      {
+        "kit": "Vanilla",
+        "tier": "LT4"
+      }
+    ]
+  },
+  {
+    "name": "MoizMoreX",
+    "stats": []
+  },
+  {
+    "name": "RaspB3rry",
+    "stats": [
+      {
+        "kit": "Vanilla",
+        "tier": "LT3"
+      },
+      {
+        "kit": "NethOP",
+        "tier": "LT4"
+      }
+    ]
+  },
+  {
+    "name": "KaiRetsu",
+    "stats": [
+      {
+        "kit": "Pot",
+        "tier": "LT4"
+      },
+      {
+        "kit": "Mace",
+        "tier": "HT4"
+      },
+      {
+        "kit": "NethOP",
+        "tier": "HT4"
+      }
+    ]
+  },
+  {
+    "name": "Spy_buddY",
+    "stats": [
+      {
+        "kit": "NethOP",
+        "tier": "HT4"
+      },
+      {
+        "kit": "Sword",
+        "tier": "LT4"
+      },
+      {
+        "kit": "UHC",
+        "tier": "HT5"
+      }
+    ]
+  },
+  {
+    "name": "GamesChangeS",
+    "stats": [
+      {
+        "kit": "NethOP",
+        "tier": "LT4"
+      }
+    ]
+  },
+  {
+    "name": "ChaddiGang",
+    "stats": [
+      {
+        "kit": "NethOP",
+        "tier": "LT4"
+      },
+      {
+        "kit": "Sword",
+        "tier": "HT5"
+      }
+    ]
+  },
+  {
+    "name": "kela_master_69",
+    "stats": [
+      {
+        "kit": "NethOP",
+        "tier": "LT5"
+      }
+    ]
+  },
+  {
+    "name": "StrictedQ",
+    "stats": [
+      {
+        "kit": "NethOP",
+        "tier": "LT4"
+      }
+    ]
+  },
+  {
+    "name": "AgroRefills",
+    "stats": [
+      {
+        "kit": "NethOP",
+        "tier": "LT4"
+      }
+    ]
+  },
+  {
+    "name": "Unknown",
+    "stats": [
+      {
+        "kit": "Vanilla",
+        "tier": "HT4"
+      }
+    ]
+  },
+  {
+    "name": "Thewatchmans",
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT3"
+      },
+      {
+        "kit": "NethOP",
+        "tier": "HT4"
+      },
+      {
+        "kit": "Mace",
+        "tier": "LT4"
+      },
+      {
+        "kit": "UHC",
+        "tier": "HT5"
+      }
+    ]
+  },
+  {
+    "name": "IkanTeri_",
+    "stats": [
+      {
+        "kit": "NethOP",
+        "tier": "HT4"
+      },
+      {
+        "kit": "Sword",
+        "tier": "LT4"
+      }
+    ]
+  },
+  {
+    "name": "Unifroza",
+    "stats": [
+      {
+        "kit": "Mace",
+        "tier": "LT3"
+      }
+    ]
+  },
+  {
+    "name": "RaisingDevil",
+    "stats": [
+      {
+        "kit": "SMP",
+        "tier": "HT5"
+      }
+    ]
+  },
+  {
+    "name": "AccidentalAce",
+    "stats": [
+      {
+        "kit": "NethOP",
+        "tier": "LT4"
+      }
+    ]
+  },
+  {
+    "name": "Xevil_",
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT4"
+      }
+    ]
+  },
+  {
+    "name": "abdulrehman400",
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT3"
+      }
+    ]
+  },
+  {
+    "name": "_positive1234",
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT4"
+      }
+    ]
+  },
+  {
+    "name": "JEFRYFROMEPSTIN",
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT3"
+      }
     ]
   }
 ]
