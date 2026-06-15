@@ -370,5 +370,14 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "OB1ACK__",
+    "stats": [
+      {
+        "kit": "NethOP",
+        "tier": "HT5"
+      }
+    ]
   }
 ]
