@@ -362,5 +362,14 @@
         "tier": "LT5"
       }
     ]
+  },
+  {
+    "name": "Zylt_",
+    "stats": [
+      {
+        "kit": "Mace",
+        "tier": "HT4"
+      }
+    ]
   }
 ]
