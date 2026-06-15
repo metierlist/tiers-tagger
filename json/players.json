@@ -353,5 +353,14 @@
         "tier": "HT4"
       }
     ]
+  },
+  {
+    "name": "7Dqwight",
+    "stats": [
+      {
+        "kit": "Vanilla",
+        "tier": "LT5"
+      }
+    ]
   }
 ]
