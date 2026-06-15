@@ -370,5 +370,14 @@
         "tier": "HT5"
       }
     ]
+  },
+  {
+    "name": "Sol0Hunt3R",
+    "stats": [
+      {
+        "kit": "NethOP",
+        "tier": "HT4"
+      }
+    ]
   }
 ]
