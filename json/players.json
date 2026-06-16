@@ -409,5 +409,14 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "MKShake",
+    "stats": [
+      {
+        "kit": "Axe",
+        "tier": "LT5"
+      }
+    ]
   }
 ]
