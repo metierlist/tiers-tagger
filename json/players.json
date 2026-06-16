@@ -480,6 +480,10 @@
       {
         "kit": "Mace",
         "tier": "HT3"
+      },
+      {
+        "kit": "Vanilla",
+        "tier": "LT3"
       }
     ]
   }
