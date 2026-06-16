@@ -477,5 +477,14 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "_user",
+    "stats": [
+      {
+        "kit": "NethOP",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
