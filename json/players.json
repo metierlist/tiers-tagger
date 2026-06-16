@@ -495,5 +495,14 @@
         "tier": "HT3"
       }
     ]
+  },
+  {
+    "name": "_RaspB3rry",
+    "stats": [
+      {
+        "kit": "Mace",
+        "tier": "HT3"
+      }
+    ]
   }
 ]
