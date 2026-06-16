@@ -460,5 +460,14 @@
         "tier": "HT5"
       }
     ]
+  },
+  {
+    "name": "Deadliest_Bladez",
+    "stats": [
+      {
+        "kit": "Vanilla",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
