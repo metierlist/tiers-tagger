@@ -451,5 +451,14 @@
         "tier": "LT4"
       }
     ]
+  },
+  {
+    "name": "Prince_Execute",
+    "stats": [
+      {
+        "kit": "Vanilla",
+        "tier": "HT5"
+      }
+    ]
   }
 ]
