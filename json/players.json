@@ -430,5 +430,14 @@
         "tier": "LT5"
       }
     ]
+  },
+  {
+    "name": "LowKeyAce_",
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT4"
+      }
+    ]
   }
 ]
