@@ -473,5 +473,14 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "Just_Tabahi_",
+    "stats": [
+      {
+        "kit": "Mace",
+        "tier": "HT3"
+      }
+    ]
   }
 ]
