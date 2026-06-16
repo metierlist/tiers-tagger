@@ -374,6 +374,10 @@
       {
         "kit": "Mace",
         "tier": "LT4"
+      },
+      {
+        "kit": "SMP",
+        "tier": "HT5"
       }
     ]
   },
