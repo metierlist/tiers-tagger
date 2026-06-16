@@ -486,14 +486,5 @@
         "tier": "LT3"
       }
     ]
-  },
-  {
-    "name": "_User",
-    "stats": [
-      {
-        "kit": "Mace",
-        "tier": "HT3"
-      }
-    ]
   }
 ]
