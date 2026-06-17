@@ -462,6 +462,10 @@
       {
         "kit": "Vanilla",
         "tier": "LT3"
+      },
+      {
+        "kit": "SMP",
+        "tier": "HT5"
       }
     ]
   },
