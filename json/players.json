@@ -493,5 +493,14 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "_BlackPaper",
+    "stats": [
+      {
+        "kit": "Mace",
+        "tier": "HT4"
+      }
+    ]
   }
 ]
