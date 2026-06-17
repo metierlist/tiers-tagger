@@ -485,5 +485,14 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "Streyfe",
+    "stats": [
+      {
+        "kit": "NethOP",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
