@@ -536,5 +536,14 @@
         "tier": "LT4"
       }
     ]
+  },
+  {
+    "name": "ALwaysTriggerBot",
+    "stats": [
+      {
+        "kit": "Pot",
+        "tier": "HT5"
+      }
+    ]
   }
 ]
