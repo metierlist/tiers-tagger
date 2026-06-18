@@ -523,5 +523,14 @@
         "tier": "LT4"
       }
     ]
+  },
+  {
+    "name": "StrikerZyro",
+    "stats": [
+      {
+        "kit": "Pot",
+        "tier": "LT4"
+      }
+    ]
   }
 ]
