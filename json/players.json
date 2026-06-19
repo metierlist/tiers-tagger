@@ -639,5 +639,14 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "HydroUsesMacros",
+    "stats": [
+      {
+        "kit": "Axe",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
