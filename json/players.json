@@ -678,6 +678,10 @@
       {
         "kit": "NethOP",
         "tier": "LT4"
+      },
+      {
+        "kit": "Pot",
+        "tier": "LT4"
       }
     ]
   }
