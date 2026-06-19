@@ -442,6 +442,10 @@
       {
         "kit": "Mace",
         "tier": "HT4"
+      },
+      {
+        "kit": "Vanilla",
+        "tier": "HT5"
       }
     ]
   },
