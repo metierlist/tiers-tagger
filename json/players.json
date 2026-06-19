@@ -575,5 +575,14 @@
         "tier": "HT5"
       }
     ]
+  },
+  {
+    "name": "Hadified_",
+    "stats": [
+      {
+        "kit": "Vanilla",
+        "tier": "LT4"
+      }
+    ]
   }
 ]
