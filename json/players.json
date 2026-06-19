@@ -675,5 +675,14 @@
         "tier": "LT4"
       }
     ]
+  },
+  {
+    "name": "illblade",
+    "stats": [
+      {
+        "kit": "Vanilla",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
