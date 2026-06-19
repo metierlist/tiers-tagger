@@ -584,5 +584,14 @@
         "tier": "LT4"
       }
     ]
+  },
+  {
+    "name": "CaptainJoe_",
+    "stats": [
+      {
+        "kit": "Mace",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
