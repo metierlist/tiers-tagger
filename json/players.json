@@ -646,6 +646,10 @@
       {
         "kit": "Axe",
         "tier": "LT3"
+      },
+      {
+        "kit": "SMP",
+        "tier": "LT4"
       }
     ]
   }
