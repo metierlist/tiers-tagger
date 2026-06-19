@@ -597,5 +597,14 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "witnr",
+    "stats": [
+      {
+        "kit": "NethOP",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
