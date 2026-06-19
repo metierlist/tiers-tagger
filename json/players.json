@@ -566,5 +566,14 @@
         "tier": "HT3"
       }
     ]
+  },
+  {
+    "name": "SpeedyLR",
+    "stats": [
+      {
+        "kit": "Vanilla",
+        "tier": "HT5"
+      }
+    ]
   }
 ]
