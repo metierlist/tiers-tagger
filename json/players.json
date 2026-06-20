@@ -723,6 +723,10 @@
       {
         "kit": "UHC",
         "tier": "LT4"
+      },
+      {
+        "kit": "Vanilla",
+        "tier": "LT3"
       }
     ]
   }
