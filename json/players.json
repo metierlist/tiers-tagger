@@ -745,6 +745,10 @@
       {
         "kit": "Sword",
         "tier": "HT4"
+      },
+      {
+        "kit": "NethOP",
+        "tier": "LT4"
       }
     ]
   }
