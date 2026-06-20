@@ -729,5 +729,14 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "Rexure4K",
+    "stats": [
+      {
+        "kit": "NethOP",
+        "tier": "LT4"
+      }
+    ]
   }
 ]
