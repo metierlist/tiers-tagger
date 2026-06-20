@@ -711,6 +711,10 @@
       {
         "kit": "NethOP",
         "tier": "HT4"
+      },
+      {
+        "kit": "Pot",
+        "tier": "LT3"
       }
     ]
   }
