@@ -754,5 +754,14 @@
         "tier": "HT5"
       }
     ]
+  },
+  {
+    "name": "tentrac",
+    "stats": [
+      {
+        "kit": "Mace",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
