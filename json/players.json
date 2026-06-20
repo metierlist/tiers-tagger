@@ -767,5 +767,14 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "idledays",
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
