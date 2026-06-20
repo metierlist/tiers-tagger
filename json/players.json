@@ -778,6 +778,10 @@
       {
         "kit": "UHC",
         "tier": "LT3"
+      },
+      {
+        "kit": "SMP",
+        "tier": "LT3"
       }
     ]
   }
