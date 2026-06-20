@@ -692,5 +692,14 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "MysticFoxXX",
+    "stats": [
+      {
+        "kit": "Mace",
+        "tier": "HT3"
+      }
+    ]
   }
 ]
