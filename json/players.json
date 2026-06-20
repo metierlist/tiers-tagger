@@ -753,6 +753,10 @@
       {
         "kit": "SMP",
         "tier": "LT4"
+      },
+      {
+        "kit": "Pot",
+        "tier": "LT4"
       }
     ]
   }
