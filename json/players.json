@@ -801,5 +801,14 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "Unknown8813",
+    "stats": [
+      {
+        "kit": "Mace",
+        "tier": "HT5"
+      }
+    ]
   }
 ]
