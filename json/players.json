@@ -801,14 +801,5 @@
         "tier": "LT3"
       }
     ]
-  },
-  {
-    "name": "DruggedWhiskeyy",
-    "stats": [
-      {
-        "kit": "Vanilla",
-        "tier": "LT3"
-      }
-    ]
   }
 ]
