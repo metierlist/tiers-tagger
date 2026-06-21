@@ -792,5 +792,14 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "HyPeRsAaDi",
+    "stats": [
+      {
+        "kit": "Vanilla",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
