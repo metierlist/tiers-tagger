@@ -828,5 +828,14 @@
         "tier": "LT2"
       }
     ]
+  },
+  {
+    "name": "AMussDeMus",
+    "stats": [
+      {
+        "kit": "NethOP",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
