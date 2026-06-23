@@ -819,5 +819,14 @@
         "tier": "LT4"
       }
     ]
+  },
+  {
+    "name": "tsdlp",
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT2"
+      }
+    ]
   }
 ]
