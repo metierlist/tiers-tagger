@@ -826,6 +826,10 @@
       {
         "kit": "Sword",
         "tier": "LT2"
+      },
+      {
+        "kit": "Pot",
+        "tier": "LT3"
       }
     ]
   },
