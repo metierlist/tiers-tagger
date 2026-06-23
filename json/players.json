@@ -810,5 +810,14 @@
         "tier": "HT5"
       }
     ]
+  },
+  {
+    "name": "Yes_Green",
+    "stats": [
+      {
+        "kit": "Vanilla",
+        "tier": "LT4"
+      }
+    ]
   }
 ]
