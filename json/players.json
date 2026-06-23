@@ -853,5 +853,14 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "tyler_durden14",
+    "stats": [
+      {
+        "kit": "Mace",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
