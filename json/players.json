@@ -882,5 +882,14 @@
         "tier": "LT4"
       }
     ]
+  },
+  {
+    "name": "Nyxpheus",
+    "stats": [
+      {
+        "kit": "Vanilla",
+        "tier": "LT4"
+      }
+    ]
   }
 ]
