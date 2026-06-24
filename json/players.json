@@ -417,6 +417,10 @@
       {
         "kit": "Vanilla",
         "tier": "HT5"
+      },
+      {
+        "kit": "NethOP",
+        "tier": "LT4"
       }
     ]
   },
