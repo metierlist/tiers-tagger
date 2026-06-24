@@ -794,6 +794,10 @@
       {
         "kit": "Mace",
         "tier": "LT3"
+      },
+      {
+        "kit": "NethOP",
+        "tier": "LT5"
       }
     ]
   },
