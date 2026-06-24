@@ -891,5 +891,14 @@
         "tier": "LT4"
       }
     ]
+  },
+  {
+    "name": "Saitama",
+    "stats": [
+      {
+        "kit": "Vanilla",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
