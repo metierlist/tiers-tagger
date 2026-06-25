@@ -900,5 +900,14 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "Azyric",
+    "stats": [
+      {
+        "kit": "Vanilla",
+        "tier": "LT5"
+      }
+    ]
   }
 ]
