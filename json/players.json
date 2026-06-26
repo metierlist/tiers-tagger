@@ -584,6 +584,10 @@
       {
         "kit": "Vanilla",
         "tier": "HT4"
+      },
+      {
+        "kit": "Pot",
+        "tier": "LT5"
       }
     ]
   },
