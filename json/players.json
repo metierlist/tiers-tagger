@@ -580,6 +580,10 @@
       {
         "kit": "NethOP",
         "tier": "LT3"
+      },
+      {
+        "kit": "Vanilla",
+        "tier": "HT4"
       }
     ]
   },
