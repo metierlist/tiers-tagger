@@ -921,5 +921,14 @@
         "tier": "LT4"
       }
     ]
+  },
+  {
+    "name": "ItzMuneebOP",
+    "stats": [
+      {
+        "kit": "NethOP",
+        "tier": "LT4"
+      }
+    ]
   }
 ]
