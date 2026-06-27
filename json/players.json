@@ -613,23 +613,6 @@
     ]
   },
   {
-    "name": "Streyfe",
-    "stats": [
-      {
-        "kit": "NethOP",
-        "tier": "LT3"
-      },
-      {
-        "kit": "Vanilla",
-        "tier": "HT4"
-      },
-      {
-        "kit": "SMP",
-        "tier": "LT3"
-      }
-    ]
-  },
-  {
     "name": "HydroUsesMacros",
     "stats": [
       {
