@@ -912,5 +912,14 @@
         "tier": "HT5"
       }
     ]
+  },
+  {
+    "name": "ZapDo_YT",
+    "stats": [
+      {
+        "kit": "NethOP",
+        "tier": "LT4"
+      }
+    ]
   }
 ]
