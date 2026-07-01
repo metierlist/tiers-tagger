@@ -912,14 +912,5 @@
         "tier": "LT4"
       }
     ]
-  },
-  {
-    "name": "DruggedWhiskeyy",
-    "stats": [
-      {
-        "kit": "Vanilla",
-        "tier": "HT4"
-      }
-    ]
   }
 ]
