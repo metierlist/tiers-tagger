@@ -918,5 +918,16 @@
     "region": "PK",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "DruggedWhiskeyy",
+    "region": "ME",
+    "type": "Premium",
+    "stats": [
+      {
+        "kit": "NethOP",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
