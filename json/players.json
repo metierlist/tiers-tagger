@@ -919,6 +919,10 @@
       {
         "kit": "Vanilla",
         "tier": "LT3"
+      },
+      {
+        "kit": "NethOP",
+        "tier": "LT3"
       }
     ]
   }
