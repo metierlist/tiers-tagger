@@ -912,14 +912,5 @@
         "tier": "LT4"
       }
     ]
-  },
-  {
-    "name": "DruggedWhiskeyy",
-    "stats": [
-      {
-        "kit": "NethOP",
-        "tier": "LT3"
-      }
-    ]
   }
 ]
