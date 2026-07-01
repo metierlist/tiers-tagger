@@ -912,5 +912,11 @@
         "tier": "LT4"
       }
     ]
+  },
+  {
+    "name": "Streyfe",
+    "region": "PK",
+    "type": "Premium",
+    "stats": []
   }
 ]
