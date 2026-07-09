@@ -32,6 +32,11 @@
     "name": "Lt4_Shayan",
     "region": "ME",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "NethOP",
+        "tier": "LT4"
+      }
+    ]
   }
 ]
