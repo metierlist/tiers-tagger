@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "name": "EboyDev1L",
+    "region": "AS",
+    "type": "Premium",
+    "stats": [
+      {
+        "kit": "NethOP",
+        "tier": "LT3"
+      }
+    ]
+  }
+]
