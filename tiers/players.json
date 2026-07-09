@@ -15,5 +15,11 @@
     "region": "PK",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "Coldkilz",
+    "region": "AS",
+    "type": "Premium",
+    "stats": []
   }
 ]
