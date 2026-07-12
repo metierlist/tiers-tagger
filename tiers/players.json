@@ -49,11 +49,6 @@
     "name": "Test",
     "region": "PK",
     "type": "Cracked",
-    "stats": [
-      {
-        "kit": "NethOP",
-        "tier": "LT3"
-      }
-    ]
+    "stats": []
   }
 ]
