@@ -53,6 +53,10 @@
       {
         "kit": "NethOP",
         "tier": "LT3"
+      },
+      {
+        "kit": "Pot",
+        "tier": "LT3"
       }
     ]
   }
