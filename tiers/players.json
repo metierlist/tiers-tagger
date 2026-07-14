@@ -49,16 +49,7 @@
     "name": "Test",
     "region": "PK",
     "type": "Cracked",
-    "stats": [
-      {
-        "kit": "NethOP",
-        "tier": "LT3"
-      },
-      {
-        "kit": "Sword",
-        "tier": "LT3"
-      }
-    ]
+    "stats": []
   },
   {
     "name": "MysticFoxXX",
