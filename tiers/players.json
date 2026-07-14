@@ -66,5 +66,11 @@
         "tier": "LT4"
       }
     ]
+  },
+  {
+    "name": "Demo1izer",
+    "region": "AS",
+    "type": "Premium",
+    "stats": []
   }
 ]
