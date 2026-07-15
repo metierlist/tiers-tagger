@@ -62,10 +62,6 @@
     "type": "Premium",
     "stats": [
       {
-        "kit": "NethOP",
-        "tier": "LT4"
-      },
-      {
         "kit": "Sword",
         "tier": "LT3"
       },
