@@ -75,6 +75,11 @@
     "name": "Demo1izer",
     "region": "AS",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "NethOP",
+        "tier": "HT4"
+      }
+    ]
   }
 ]
