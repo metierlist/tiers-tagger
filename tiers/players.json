@@ -111,5 +111,11 @@
     "region": "EU",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "KaiRetsu",
+    "region": "ME",
+    "type": "Premium",
+    "stats": []
   }
 ]
