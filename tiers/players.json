@@ -105,5 +105,11 @@
         "tier": "HT4"
       }
     ]
+  },
+  {
+    "name": "itzshadowreal",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
