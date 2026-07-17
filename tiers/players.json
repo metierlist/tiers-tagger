@@ -143,6 +143,11 @@
     "name": "_Nighthxwk",
     "region": "ME",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Mace",
+        "tier": "HT4"
+      }
+    ]
   }
 ]
