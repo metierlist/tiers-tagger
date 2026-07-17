@@ -127,7 +127,12 @@
     "name": "_BlackPaper",
     "region": "AS",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Mace",
+        "tier": "LT3"
+      }
+    ]
   },
   {
     "name": "_Nighthxwk",
