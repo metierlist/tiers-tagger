@@ -110,7 +110,12 @@
     "name": "itzshadowreal",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Mace",
+        "tier": "HT4"
+      }
+    ]
   },
   {
     "name": "KaiRetsu",
