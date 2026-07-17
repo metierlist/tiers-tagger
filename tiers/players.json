@@ -122,5 +122,11 @@
     "region": "ME",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "_BlackPaper",
+    "region": "AS",
+    "type": "Premium",
+    "stats": []
   }
 ]
