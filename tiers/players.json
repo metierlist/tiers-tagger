@@ -167,5 +167,11 @@
     "region": "AS",
     "type": "Cracked",
     "stats": []
+  },
+  {
+    "name": "SpeedyLR",
+    "region": "ME",
+    "type": "Premium",
+    "stats": []
   }
 ]
