@@ -61,6 +61,10 @@
       {
         "kit": "Spearmace",
         "tier": "LT5"
+      },
+      {
+        "kit": "DiaSMP",
+        "tier": "LT5"
       }
     ]
   },
