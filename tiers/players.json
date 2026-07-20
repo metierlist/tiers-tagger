@@ -49,24 +49,7 @@
     "name": "Test",
     "region": "PK",
     "type": "Cracked",
-    "stats": [
-      {
-        "kit": "NethOP",
-        "tier": "LT4"
-      },
-      {
-        "kit": "Cart",
-        "tier": "LT5"
-      },
-      {
-        "kit": "Spearmace",
-        "tier": "HT5"
-      },
-      {
-        "kit": "DiaSMP",
-        "tier": "HT1"
-      }
-    ]
+    "stats": []
   },
   {
     "name": "MysticFoxXX",
