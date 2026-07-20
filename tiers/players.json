@@ -53,6 +53,10 @@
       {
         "kit": "NethOP",
         "tier": "LT4"
+      },
+      {
+        "kit": "Cart",
+        "tier": "LT5"
       }
     ]
   },
