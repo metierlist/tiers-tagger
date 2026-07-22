@@ -144,6 +144,10 @@
       {
         "kit": "SMP",
         "tier": "HT4"
+      },
+      {
+        "kit": "NethOP",
+        "tier": "LT4"
       }
     ]
   },
