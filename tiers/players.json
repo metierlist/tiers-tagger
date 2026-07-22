@@ -190,5 +190,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "FatalStriker_",
+    "region": "ME",
+    "type": "Premium",
+    "stats": []
   }
 ]
