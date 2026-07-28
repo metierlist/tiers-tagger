@@ -4,5 +4,11 @@
     "region": "PK",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "Test",
+    "region": "PK",
+    "type": "Premium",
+    "stats": []
   }
 ]
