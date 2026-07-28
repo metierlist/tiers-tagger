@@ -9,6 +9,11 @@
     "name": "Test",
     "region": "PK",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "NethOp",
+        "tier": "LT5"
+      }
+    ]
   }
 ]
